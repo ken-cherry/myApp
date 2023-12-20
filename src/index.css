@@ -492,9 +492,9 @@ HEADER
 .banner h1,
 .banner h2 {
   color: var(--clr-white);
+  font-family: var(--ff-primary);
 }
 .banner h2 {
-  font-family: var(--ff-secondary);
   /* animation */
   animation: slideFromRight 5s ease-in-out 1;
 }
@@ -502,7 +502,7 @@ HEADER
   text-transform: uppercase;
   margin-top: 1.25rem;
   margin-bottom: 2rem;
-  font-family: var(--ff-secondary);
+  /* font-family: var(--ff-secondary); */
   /* animation */
   animation: slideFromLeft 5s ease-in-out 1;
 }
@@ -537,7 +537,6 @@ SKILLS
   /* height: 100vh; */
   display: grid;
   max-width: 1170px;
-  /* grid-template-columns: repeat(4, 1fr); */
   grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   margin: 0 auto;
 }
