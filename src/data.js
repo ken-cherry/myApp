@@ -94,7 +94,7 @@ export const projects = [
     title: "aegis academy",
     logo: shopify,
     logoAlt: "shopify logo",
-    text: "I built this site for a client using Shopify. Other ecommerce sites I have worked with are Word Press and nopCommerce.",
+    text: "I built this site for a client using Shopify. Other ecommerce sites I have worked with are WordPress, Squarespace and nopCommerce.",
     link: "https://aegisacademy.com/",
   },
   {
