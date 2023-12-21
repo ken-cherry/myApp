@@ -327,7 +327,8 @@ nav {
   font-size: 2.5rem;
   /* color: var(--grey-400); */
   color: var(--clr-grey-1);
-  text-shadow: 3px 3px 3px var(--grey-300);
+  /* text-shadow: 3px 3px 3px var(--grey-300); */
+  text-shadow: 1px 1px 1px var(--grey-300);
 }
 .links a {
   color: var(--grey-700);
@@ -337,7 +338,7 @@ nav {
   display: block;
   padding: 0.5rem 1rem;
   transition: var(--transition);
-  text-shadow: 2px 2px 2px var(--grey-300);
+  text-shadow: 1px 1px 1px var(--grey-300);
 }
 .links a:hover {
   color: var(--clr-white);
@@ -352,7 +353,7 @@ nav {
 }
 .nav-social-icons i {
   color: var(--clr-grey-1);
-  text-shadow: 2px 2px 2px var(--grey-300);
+  text-shadow: 1px 1px 1px var(--grey-300);
 }
 .nav-social-icons i:hover {
   color: var(--clr-white);
