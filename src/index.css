@@ -6,7 +6,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
@@ -331,14 +330,15 @@ nav {
   text-shadow: 1px 1px 1px var(--grey-300);
 }
 .links a {
-  color: var(--grey-700);
+  color: var(--black);
   font-size: 1rem;
+  font-weight: 700;
   text-transform: capitalize;
   letter-spacing: var(--letterSpacing);
   display: block;
   padding: 0.5rem 1rem;
   transition: var(--transition);
-  text-shadow: 1px 1px 1px var(--grey-300);
+  /* text-shadow: 1px 1px 1px var(--grey-300); */
 }
 .links a:hover {
   color: var(--clr-white);
@@ -352,8 +352,9 @@ nav {
   transition: var(--transition);
 }
 .nav-social-icons i {
+  font-weight: 700;
   color: var(--clr-grey-1);
-  text-shadow: 1px 1px 1px var(--grey-300);
+  /* text-shadow: 1px 1px 1px var(--grey-300); */
 }
 .nav-social-icons i:hover {
   color: var(--clr-white);
