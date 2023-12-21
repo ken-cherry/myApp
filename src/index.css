@@ -116,7 +116,7 @@ body {
   font-family: var(--bodyFont);
   font-weight: 400;
   line-height: 1.75;
-  color: var(--textColor);
+  /* color: var(--textColor); */
   margin: 0;
 }
 
@@ -299,7 +299,8 @@ NAVBAR
 nav {
   width: 100%;
   overflow: hidden;
-  background: var(--white);
+  background: var(--grey-400);
+  /* background: var(--white); */
   box-shadow: var(--shadow-1);
   position: fixed;
   top: 0;
@@ -319,13 +320,14 @@ nav {
   cursor: pointer;
 }
 .nav-toggle:hover {
-  color: var(--primary-700);
+  color: var(--clr-white);
   transform: rotate(90deg);
 }
 .fa-code {
   font-size: 2.5rem;
-  color: var(--grey-400);
-  text-shadow: 3px 3px 3px var(--clr-grey-8);
+  /* color: var(--grey-400); */
+  color: var(--clr-grey-1);
+  text-shadow: 3px 3px 3px var(--grey-300);
 }
 .links a {
   color: var(--grey-700);
@@ -335,16 +337,25 @@ nav {
   display: block;
   padding: 0.5rem 1rem;
   transition: var(--transition);
+  text-shadow: 2px 2px 2px var(--grey-300);
 }
 .links a:hover {
-  background: var(--primary-100);
-  color: var(--primary-500);
+  color: var(--clr-white);
+  /* background: var(--primary-100); */
+  /* color: var(--primary-500); */
   padding-left: 1.5rem;
 }
 /* 140px 8.75rem */
 .links-container {
   overflow: hidden;
   transition: var(--transition);
+}
+.nav-social-icons i {
+  color: var(--clr-grey-1);
+  text-shadow: 2px 2px 2px var(--grey-300);
+}
+.nav-social-icons i:hover {
+  color: var(--clr-white);
 }
 .nav-center .nav-social-icons {
   display: none;
@@ -379,7 +390,6 @@ nav {
   .links a:hover {
     padding: 0;
     background: transparent;
-    color: var(--primary-400);
   }
   .nav-center .nav-social-icons {
     display: flex;
