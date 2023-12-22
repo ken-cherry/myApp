@@ -2,6 +2,7 @@ import projOne from "../src/images/bierGirls2.png";
 import projTwo from "../src/images/aegis_resilience.jpg";
 import projThree from "../src/images/backroadsApp.jpeg";
 import javascript from "../src/images/javascript.svg";
+import projFour from "../src/images/study.jpg";
 import shopify from "../src/images/shopify_Logo.svg";
 import react from "../src/images/reactjs.svg";
 
@@ -106,6 +107,16 @@ export const projects = [
     logoAlt: "react logo",
     text: "I built this site in the React course I am currently taking. I'm excited about learning the ReactFramework.",
     link: "https://backroads-react-app-2023.netlify.app/",
+  },
+  {
+    id: 3,
+    img: projFour,
+    imgAlt: "Backroads App link",
+    title: "cue cards app",
+    logo: react,
+    logoAlt: "react logo",
+    text: "I built this cue card app so I could reinforce the skills learnt in a React course.",
+    link: "https://react-cue-cards.netlify.app",
   },
 ];
 
