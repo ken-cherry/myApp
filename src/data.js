@@ -115,7 +115,7 @@ export const projects = [
     title: "cue cards app",
     logo: react,
     logoAlt: "react logo",
-    text: "I built this cue card app so I could reinforce the skills learnt in a React course.",
+    text: "I built this cue card app so I could reinforce the skills learnt in a React course. I primarily use this app on my phone.",
     link: "https://react-cue-cards.netlify.app",
   },
 ];
