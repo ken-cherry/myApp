@@ -86,7 +86,7 @@ export const projects = [
     logo: javascript,
     logoAlt: "javascript logo",
     text: "I built this project from scratch to reinforce my CSS Grid and Javascript skills. ",
-    link: "https://restaraunt-project.netlify.app/",
+    link: "https://simple-elegance.netlify.app/",
   },
   {
     id: 2,
