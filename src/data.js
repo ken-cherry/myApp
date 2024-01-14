@@ -1,7 +1,7 @@
 import projOne from "../src/images/simpleElegance.jpg";
 import projTwo from "../src/images/aegis_resilience.jpg";
 import projThree from "../src/images/backroadsApp.jpeg";
-import javascript from "../src/images/javascript.svg";
+// import javascript from "../src/images/javascript.svg";
 import projFour from "../src/images/study.jpg";
 import shopify from "../src/images/shopify_Logo.svg";
 import react from "../src/images/reactjs.svg";
