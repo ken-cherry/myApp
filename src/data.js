@@ -1,4 +1,4 @@
-import projOne from "../src/images/bierGirls2.png";
+import projOne from "../src/images/simpleElegance.jpg";
 import projTwo from "../src/images/aegis_resilience.jpg";
 import projThree from "../src/images/backroadsApp.jpeg";
 import javascript from "../src/images/javascript.svg";
@@ -82,10 +82,10 @@ export const projects = [
     id: 1,
     img: projOne,
     imgAlt: "restaurant link",
-    title: "german restaurant",
-    logo: javascript,
-    logoAlt: "javascript logo",
-    text: "I built this project from scratch to reinforce my CSS Grid and Javascript skills. ",
+    title: "simple elegance",
+    logo: react,
+    logoAlt: "react logo",
+    text: "I built this project from scratch to using Create React App. ",
     link: "https://simple-elegance.netlify.app/",
   },
   {
