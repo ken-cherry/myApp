@@ -123,7 +123,7 @@ export const projects = [
 export const socialIcons = [
   {
     id: 1,
-    href: "https://www.linkedin.com/in/ken-cherry-8a308412b/",
+    href: "https://www.linkedin.com/in/kenneth-cherry-8a308412b/",
     icon: "fab fa-linkedin",
   },
   {
