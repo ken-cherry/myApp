@@ -85,7 +85,7 @@ export const projects = [
     title: "simple elegance",
     logo: react,
     logoAlt: "react logo",
-    text: "I built this project from scratch to using Create React App. ",
+    text: "Built with: Vite, React Router DOM Libraries and React Icons ",
     link: "https://simple-elegance.netlify.app/",
   },
   {
