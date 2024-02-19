@@ -1,6 +1,6 @@
 import projOne from "../src/images/simpleElegance.jpg";
 import projTwo from "../src/images/aegis_resilience.jpg";
-import projThree from "../src/images/backroadsApp.jpeg";
+import projThree from "../src/images/benchPress.jpg";
 // import javascript from "../src/images/javascript.svg";
 import projFour from "../src/images/study.jpg";
 import shopify from "../src/images/shopify_Logo.svg";
@@ -109,7 +109,7 @@ export const projects = [
     link: "https://muscle-gains.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     img: projFour,
     imgAlt: "Backroads App link",
     title: "cue cards app",
