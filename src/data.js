@@ -101,12 +101,12 @@ export const projects = [
   {
     id: 3,
     img: projThree,
-    imgAlt: "Backroads App link",
-    title: "backroads app",
+    imgAlt: "Muscle Gains",
+    title: "muscle gains",
     logo: react,
     logoAlt: "react logo",
     text: "I built this site in the React course I am currently taking. I'm excited about learning the ReactFramework.",
-    link: "https://backroads-react-app-2023.netlify.app/",
+    link: "https://muscle-gains.netlify.app/",
   },
   {
     id: 3,
