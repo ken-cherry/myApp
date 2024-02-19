@@ -105,7 +105,7 @@ export const projects = [
     title: "muscle gains",
     logo: react,
     logoAlt: "react logo",
-    text: "I built this site in the React course I am currently taking. I'm excited about learning the ReactFramework.",
+    text: "Built with Vite, ReactRouter DOM Libraries, Tailwind Css, Daisyui, React and Hero Icons.",
     link: "https://muscle-gains.netlify.app/",
   },
   {
