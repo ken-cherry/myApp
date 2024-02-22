@@ -105,7 +105,7 @@ export const projects = [
     title: "muscle gains",
     logo: react,
     logoAlt: "react logo",
-    text: "Built with Vite, ReactRouter DOM Libraries, Tailwind Css, Daisyui, React and Hero Icons.",
+    text: "Built with Vite, ReactRouter DOM Libraries, Tailwind CSS, Daisyui, React and Hero Icons.",
     link: "https://muscle-gains.netlify.app/",
   },
   {
