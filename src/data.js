@@ -37,7 +37,7 @@ export const skills = [
     id: 4,
     img: "fa-brands fa-react",
     alt: "React logo",
-    text: " Currently Learning",
+    text: "",
   },
   {
     id: 5,
