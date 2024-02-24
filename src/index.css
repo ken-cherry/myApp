@@ -472,7 +472,7 @@ SKILLS
 .skills-container {
   display: grid;
   max-width: 1170px;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   margin: 0 auto;
 }
 .skill-icon {
