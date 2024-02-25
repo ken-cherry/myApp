@@ -15,28 +15,28 @@ export const pageLinks = [
 
 export const skills = [
   {
-    id: 1,
+    id: 4,
     img: "fa-brands fa-html5",
     alt: "html5 logo",
-    text: "",
+    text: "HTML5",
   },
   {
-    id: 2,
+    id: 5,
     img: "fa-brands fa-css3-alt",
     alt: "CSS3 logo",
-    text: "",
+    text: "CSS3",
   },
   {
-    id: 3,
+    id: 6,
     img: "fa-brands fa-js",
     alt: "Javascript logo",
-    text: "",
+    text: "Javascript",
   },
   {
-    id: 4,
+    id: 7,
     img: "fa-brands fa-react",
     alt: "React logo",
-    text: "",
+    text: "React",
   },
 ];
 

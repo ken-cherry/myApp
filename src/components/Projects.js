@@ -10,20 +10,16 @@ const Projects = () => {
           <h2>projects</h2>
           <div className="underline"></div>
         </div>
-        {/* <div className="project-center">
-          
-        </div> */}
         <div className="projects-container section-center">
           {projects.map((item) => {
             const { id, img, imgAlt, title, logo, text, link, logoAlt } = item;
             return (
-              <article>
-                <div className="card" key={id}>
+              <article key={id}>
+                <div className="card">
                   <div className="card-side card-front">
                     <img src={img} alt={imgAlt} className="img-link" />
                     <h4>{title} </h4>
                     <div className="card-icon">
-                      {/* <i className={logo}></i> */}
                       <img src={logo} className="icon" alt={logoAlt} />
                     </div>
                   </div>
