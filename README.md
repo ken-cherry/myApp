@@ -14,5 +14,5 @@ npm install
 - spin up dev server
 
 ```sh
-npm run dev
+npm start
 ```

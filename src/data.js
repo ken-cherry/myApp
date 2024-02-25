@@ -1,7 +1,6 @@
 import projOne from "../src/images/simpleElegance.jpg";
 import projTwo from "../src/images/aegis_resilience.jpg";
 import projThree from "../src/images/benchPress.jpg";
-// import javascript from "../src/images/javascript.svg";
 import projFour from "../src/images/study.jpg";
 import shopify from "../src/images/shopify_Logo.svg";
 import react from "../src/images/reactjs.svg";
@@ -39,42 +38,6 @@ export const skills = [
     alt: "React logo",
     text: "",
   },
-  // {
-  //   id: 5,
-  //   img: "fa-brands fa-shopify",
-  //   alt: "Shopify logo",
-  //   text: "Limited Experience",
-  // },
-  // {
-  //   id: 6,
-  //   img: "fa-brands fa-wordpress",
-  //   alt: "Word Press logo",
-  //   text: "Limited Experience",
-  // },
-  // {
-  //   id: 7,
-  //   img: "fa-brands fa-squarespace",
-  //   alt: "nopCommerce logo",
-  //   text: "Limited Experience",
-  // },
-  // {
-  //   id: 8,
-  //   img: "fa-brands fa-angular",
-  //   alt: "Angular logo",
-  //   text: "Limited Experience",
-  // },
-  // {
-  //   id: 9,
-  //   img: "fa-solid fa-database",
-  //   alt: ".NET Core logo",
-  //   text: "Limited Experience",
-  // },
-  // {
-  //   id: 10,
-  //   img: "fa-brands fa-java",
-  //   alt: "MySql logo",
-  //   text: "Limited Experience",
-  // },
 ];
 
 export const projects = [

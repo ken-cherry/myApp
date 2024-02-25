@@ -476,7 +476,7 @@ SKILLS
   margin: 0 auto;
 }
 .skill-icon {
-  font-size: 3rem;
+  font-size: 5rem;
   color: white;
   text-shadow: 4px 4px 4px var(--clr-grey-1);
 }
